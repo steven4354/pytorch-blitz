@@ -1,0 +1,15 @@
+# environment.yml
+name: pytorch-blitz           # call the env whatever you like
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10        # pin a version you know works
+  - jupyterlab
+  - ipywidgets
+  - pytorch            # CPU-only; add cudatoolkit=X.Y for GPU
+  - torchvision
+  - torchaudio
+  - pip                # optional, but handy
+  # - pip:             # add any PyPI-only packages under this key
+  #     - some_pypi_pkg>=0.1

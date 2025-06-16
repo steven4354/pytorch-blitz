@@ -1,6 +1,6 @@
 # Pytorch Blitz
 
-Following along the 60-minute Pytorch Blitz tutorial: https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+Follow along the 60-minute Pytorch Blitz tutorial: https://docs.pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
 
 ## Getting started
 
